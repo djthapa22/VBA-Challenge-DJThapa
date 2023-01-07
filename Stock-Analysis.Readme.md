@@ -16,6 +16,7 @@ I learned how to use the VBA’s modules in looping through each year’s stock 
 **How to Use:**
 Using the vs file named, “Sub Analysis 2”. Copy and paste the code to Excel file with the started stock data. Convert it into a macro-enabled file and then run it.
 
+**Results Screenshot**
 (Stock- Screenshot 2018)https://github.com/djthapa22/VBA-Challenge-DJThapa/blob/main/Screenshots/2018%20.png
 
 (Stock-Screenshot 2019)https://github.com/djthapa22/VBA-Challenge-DJThapa/blob/main/Screenshots/2019.png
